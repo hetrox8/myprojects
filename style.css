@@ -1,0 +1,30 @@
+body{
+    /*background-image: url("images/pexels-brett-sayles-1775862.jpg"); */
+   
+   text-transform: capitalize;
+   font-size: 21px;
+   
+   }
+   
+   h1{
+       color: tan;
+       
+   
+       border: 5px solid rgb(10, 162, 250) ;
+       border-style: double;
+      
+       margin-left: 85px;
+       margin-right: 85px;
+        text-align: center;
+   
+   }
+   
+   .navbar{
+   
+   font-size: 24px;
+   text-align: center;
+   
+   word-spacing: 10em;
+   
+   
+   }
