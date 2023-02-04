@@ -1,0 +1,185 @@
+
+<html lang="en">
+    <head>
+    
+    
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    <link rel="stylesheet" href="styles1.css">
+    <link rel="stylesheet" href="scripts1.js">
+    
+        <link rel="stylesheet" href="styles1.css">
+    
+    </head>
+
+    
+    <body>
+        
+      
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    
+        <script src="scripts1.js">
+        
+        </script>
+        
+
+        
+ <div class="wrapper"> 
+     <h1>   NATIONAL YOUTH DEVELOPMENT     </h1>    
+          <header id="header">     
+            
+        
+            <div class="navbar">
+    
+                <nav>
+                     <a class="active" href="Home">Home</a>
+                     <a  href="Contact">Contact</a>
+                     <a href="Support">Support</a>
+        
+    
+              </nav>
+        
+                 </div>
+               
+        </header> 
+
+
+      
+         
+  
+
+
+               
+
+             
+
+      <p> Welcome and register to our platform to discover great resources to build your career from scratch   </p>
+
+     <p> learn with the most qualified developers from microsoft to google and all in between.</p>
+     <p> Taking software engineering to a whole new level and inspiring young youth to take part in the <strong>tech world</strong></p>
+        
+ 
+
+  
+
+
+
+
+
+ <div class="form">  
+            
+            <form name="form1" method="post" onsubmit="return validateForm()" action="abc.jsp">  
+    
+        fullName : <input type="text"  name="fullName"  placeholder=""   required=""><br/>
+    
+    
+        email : <input type="text" name="email"  placeholder="" required=""><br>
+    
+    
+        phone : <input type="text" name="phone" ><span id=" numloc" required=""></span><br/>
+    
+    
+    
+        Telephone : <input type="text" name="phoneNumber" required=""><span id="fName"></span><br/>
+    
+     password : <input type="password" name="password1" required=""><br>
+
+     Re-enter : <input type="password" name="password1" required="">
+
+  
+
+            </form>
+        </div>
+      
+
+<button type="submit" value="submit"  onsubmit="submitEvent"> Submit</button>
+
+    <br>
+   
+
+
+
+    
+    
+    
+ 
+    
+        
+  
+    
+    
+    <header>   <u><b>OUR PROGRAMS</b></u>    </header>
+
+    <section>  
+<table>
+
+<tr>
+<th> computing</th>
+<th> Business     </th>
+<td>   Emotional health</td>
+
+</tr>
+
+<tr>
+    <td>front-end web development</td>
+   <td>Google analytics</td>
+<td> Stress management</td>
+
+</tr>
+
+<tr>
+<td>cloud computing</td>
+<td>data entry</td>
+<td> Effective communication</td>
+
+
+</tr>
+
+<tfoot>
+
+<tr>
+<td></td>
+
+<td col span="2">sign up and save 10% </td>
+</tr>
+
+
+</tfoot>
+
+
+</table>
+
+   </section>
+    
+
+<div class="footer">  
+
+    <footer style="align-items: center;">
+    &copy;suleiman yusuf Gacheru 2022
+    </footer>
+    <br>
+    
+    
+</div>
+
+    
+
+    Our mission is to empower as many youths as possible to help them be reliable persons in the near future. <br>
+    we are  dedicated to provide full support to you to Elavate your career .
+<br>
+
+
+  <br>
+subscribe to our email list :
+
+<input type="text" name="email" >
+<input  type="submit" value="subscribe" name="subscribe" onsubmit="funF1()" id="sb">
+
+
+ </div>
+
+
+
+
